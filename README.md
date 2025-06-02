@@ -12,11 +12,12 @@ A simple Bash script that collects essential Linux system information (IP addres
   - Number of CPUs
   - Total RAM
   - Total disk size
+  - Optionally checks for disk sizes of common mount points:![image](https://github.com/user-attachments/assets/83b8ebc3-c9af-4c11-9438-ec0bbf8b161e)
+
   - Sizes of `/data`, `/app`, `/datafiles`, `/dblogs`, and `/logs` if available
-  - Please add the partition you created (`/Your-partition`, `/Your-partition`, `/etc`,)
+  - partition you created (`/Replace-Your-partition`, `/Replace-Your-partition`, `/etc`,)
 - Outputs:
   - CSV file (e.g., `/root/192.168.1.100.csv`)
-  - JSON file (e.g., `/root/192.168.1.100.json`)
 - Automatically names output files based on server IP
 
 ---
@@ -28,6 +29,10 @@ A simple Bash script that collects essential Linux system information (IP addres
 - Root access (to write to `/root/`)
 
 ---
+## 📁 Output Files
+
+### 🔹 CSV Output (example)
+![image](https://github.com/user-attachments/assets/a06cda59-7639-4500-91bb-10a39db5c00f)
 
 ## 🚀 Usage
 
