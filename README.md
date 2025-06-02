@@ -20,6 +20,9 @@ A simple Bash script that collects essential Linux system information (IP addres
 - Outputs:
   - CSV file (e.g., `/root/192.168.1.100.csv`)
 - Automatically names output files based on server IP
+### 🔹 CSV Output (example)
+![image](https://github.com/user-attachments/assets/17688e2d-3d40-40cf-8ed0-a1fa454683a2)
+
 
 ---
 
@@ -30,10 +33,6 @@ A simple Bash script that collects essential Linux system information (IP addres
 - Root access (to write to `/root/`)
 
 ---
-## 📁 Output Files
-
-### 🔹 CSV Output (example)
-![image](https://github.com/user-attachments/assets/17688e2d-3d40-40cf-8ed0-a1fa454683a2)
 
 ## 🚀 Usage
 
