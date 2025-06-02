@@ -12,7 +12,8 @@ A simple Bash script that collects essential Linux system information (IP addres
   - Number of CPUs
   - Total RAM
   - Total disk size
-  - Optionally checks for disk sizes of common mount points:![image](https://github.com/user-attachments/assets/83b8ebc3-c9af-4c11-9438-ec0bbf8b161e)
+  - Optionally checks for disk sizes of common mount points:![image](https://github.com/user-attachments/assets/2dbbc781-0a06-454f-99e1-37ed77477645)
+
 
   - Sizes of `/data`, `/app`, `/datafiles`, `/dblogs`, and `/logs` if available
   - partition you created (`/Replace-Your-partition`, `/Replace-Your-partition`, `/etc`,)
@@ -32,7 +33,7 @@ A simple Bash script that collects essential Linux system information (IP addres
 ## 📁 Output Files
 
 ### 🔹 CSV Output (example)
-![image](https://github.com/user-attachments/assets/a06cda59-7639-4500-91bb-10a39db5c00f)
+![image](https://github.com/user-attachments/assets/17688e2d-3d40-40cf-8ed0-a1fa454683a2)
 
 ## 🚀 Usage
 
